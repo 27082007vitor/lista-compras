@@ -1,6 +1,6 @@
 :root {
---cor-primaria: #6b73ff;
---cor-primaria-escura: #4e56d6;
+--cor-primaria: #0e0e0f;
+--cor-primaria-escura: #32333c;
 --cor-bg: #f5f7fa;
 --cor-branco: #ffffff;
 --cor-borda: #ddd;
@@ -28,7 +28,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-padding: 0%;
+padding: 20%;
 }
 
 
