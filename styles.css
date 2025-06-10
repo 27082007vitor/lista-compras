@@ -9,7 +9,7 @@
 
 --fonte: 'Roboto', sans-serif;
 
---raio: 12px;
+--raio: 1.5rem;
 --transition: 0.3s ease;
 }
 
@@ -44,7 +44,7 @@ text-align: center;
   width: 150px;
   height: auto;
   margin-bottom: 20px;
-  border-radius: var(--raio);
+  border-radius: var(12);
 
 }
 
